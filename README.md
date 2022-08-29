@@ -21,7 +21,7 @@
 
 
 
-<img src="img/img1.png"> <br/>
+<img src="https://github.com/Goalline-byte/Algo-Sort/blob/main/image%201.png"> <br/>
 <img src="img/img2.png"> <br/>
 <img src="img/img3.png"> <br/>
 <img src="img/img4.png"> <br/>
