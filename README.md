@@ -21,7 +21,7 @@
 
 
 
-<img src="https://github.com/Goalline-byte/Algo-Sort/blob/main/image%201.png"> <br/>
+<img src="https://github.com/Goalline-byte/Algo-Sort/blob/main/image_ss/1.png"> <br/>
 <img src="https://github.com/Goalline-byte/Algo-Sort/blob/main/image%202.png"> <br/>
 <img src="https://github.com/Goalline-byte/Algo-Sort/blob/main/image%204.png"> <br/>
 <img src="https://github.com/Goalline-byte/Algo-Sort/blob/main/image%205.png"> <br/>
